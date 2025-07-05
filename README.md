@@ -1,4 +1,4 @@
-📊 Quran Insights Dashboard - Complete Islamic Data Analytics
+Quran Insights Dashboard - Complete Islamic Data Analytics
 Comprehensive Quran dataset with 114 Surahs analysis featuring Power BI dashboards, DAX formulas for Parah names, CSV data & interactive visualizations for Islamic data analytics.
 Show Image
 Show Image
@@ -7,7 +7,6 @@ Show Image
 This repository contains a complete data analytics solution for the Holy Quran, featuring detailed information about all 114 Surahs with interactive Power BI dashboards, advanced DAX formulas, and comprehensive CSV datasets.
 ✨ Key Features
 📈 Interactive Power BI Dashboard
-
 Page 1: Overview Analytics
 
 Key metrics cards (Total Words, Ayahs, Surahs, Sajdas)
@@ -16,15 +15,12 @@ Top 12 Paras with most Ayahs (Arabic names)
 Makki vs Madani distribution analysis
 Interactive filters for Revelation Type and Period
 
-
 Page 2: Detailed Analysis
 
 Surah count by each Parah (30 sections)
 Total Ayahs by Revelation Type comparison
 Period-wise revelation analysis (Early/Middle/Late)
 Comprehensive revelation timeline insights
-
-
 
 📊 Dataset Features
 
@@ -83,6 +79,7 @@ CSV viewer/editor (Excel, Google Sheets, etc.)
 Installation
 
 Clone the repository
+
 bashgit clone https://github.com/yourusername/quran-insights-dashboard.git
 cd quran-insights-dashboard
 
@@ -134,7 +131,7 @@ quran-insights-dashboard/
 ├── dax-formulas/
 │   ├── parah_names.dax
 │   └── advanced_calculations.dax
-├── screenshots/
+├── images/
 │   ├── dashboard-page1.png
 │   └── dashboard-page2.png
 └── docs/
