@@ -48,12 +48,12 @@ This repository contains a complete data analytics solution for the Holy Quran, 
 ## 📸 Screenshots
 
 ### Dashboard Page 1: Overview
-![Quran Insights Dashboard Page 1](images/dashboard-page1.png)
+![Dasboard 1](https://github.com/user-attachments/assets/fb3a6c24-d09c-49e5-b509-5c0e30a6f27e)
 
 *Main dashboard showing key metrics, top Surahs analysis, and revelation type distribution*
 
 ### Dashboard Page 2: Detailed Analytics
-![Quran Insights Dashboard Page 2](images/dashboard-page2.png)
+![image](https://github.com/user-attachments/assets/995bad68-b856-479c-8395-542b19f4ff47)
 
 *Detailed analysis including Parah distribution, period-wise breakdown, and comprehensive charts*
 
@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions, suggestions, or collaborations:
-- **Email**: your.email@example.com
+- **Email**: qamarmehmood533@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile]
 - **Issues**: [GitHub Issues Page]
 
