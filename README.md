@@ -216,8 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaborations:
 - **Email**: qamarmehmood533@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Issues**: [GitHub Issues Page]
+- **LinkedIn**: https://www.linkedin.com/in/qamarmehmood5/
+- **Issues**: +923497949757
 
 ---
 
